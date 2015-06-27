@@ -26,7 +26,7 @@ class RTesseract
   # Aliases to languages names
   LANGUAGES = {
     'eng' => %w(en en-us english),
-    'cse' => %w(cs cz)
+    'cse' => %w(cs cz),
     'ita' => %w(it),
     'por' => %w(pt pt-br portuguese),
     'spa' => %w(sp)
